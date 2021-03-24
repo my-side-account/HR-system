@@ -1,35 +1,68 @@
-## Abstract:
-It is a web application which is a human resource management system. It keeps the information about the human resource, educational background of all employees, their  recent experiences, their attendance, their  leaves management and their current allocated projects. Administration panel will be created to manage all the information of hired employees. It will contain the statistics about the employee hiring ratio from different institutions and the average turnover of employees from different institutions. This project is built on Node Express which is is a web application framework for Node.js and the front end is created using HTML, Bootstrap, CSS and JS.  
+# Kshitij Dhyani  
 
-## Product Features:
-The product consists of the basic modules, which are listed as follows
-1. Separate user accounts for all the admins and employees.
-1. Distinct views of data and distinct data access to the members, based on their privileges.
-1. Employee/Admin registration.
-1. Managing attendance of all the employees.
-1. Managing salaries of all the employees.
-1. Keeping an employee’s educational and industrial experience record.
-1. Managing the current allocated projects to the employees, within the organization.
+![My Banner](/banner_wimpy.jfif)
 
-## Users:
- ### 1. Admin:
-He/She have complete access of the system which includes registration of employees; decide privileges for other employees, viewing       and modifying attendance of the present day, viewing and modifying employee salary, delete record or profile of employee, allocation     and de-allocation of project to an employee, approve/disapprove leave application of an employee.
- ### 2. Employee:
-He/She will be able to mark his/her attendance, view his/her attendance history, to view his/her current salary,  view his/her current employee profile (including educational and industrial history), view all his/her projects within organization, view other         employees who are sharing the same project with him, apply for leave and view status of leave applications.
- ### 3. Project Manager:
-He/She will be able to view skills of employees, provide performance appraisal to employee.
- ### 4. Accounts Manager:
-He/She will be able to generate pay slip for each employee, set bonus for employee, set pay of employee, increment pay of employee, sent email pay slip to each employee. 
+# Wimpy Warlord 👽
+![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge) ![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
 
-## How to run the project:
-1. Clone or download this repository in the folder.
-1. Install [node.js](https://nodejs.org/en/download/) in your system.
-1. Install [mongoDB](https://www.mongodb.com/) in your system. 
-1. Run mongoDB server by running the mongod application file in the installed mongoDB driectory.
-1. To start the application dependencies, open the terminal, go to the root folder of the application / repository and then type command **npm install**.
-1. To run application server, in the terminal, at the root folder of application,type command **npm start**.
-1. If you are running application for the first type then you need some dummy users entered into mongoDB for logging-in. For this purpose, you need to run user-seeder.js file in seed directory of application, in the in the terminal, go to the seed folder of application, type command **node user-seeder.js**.
-1. Dummy username/email address and passwords for each type of user can also be seen in user-seeder.js file. 
-1. Now to use the system, open any browser.
-1. In address bar write localhost:3000, where 3000 is the port this application uses.
-1. Browser will redirect to the home page of the application.
+**I pump iron during the day and smash my keyboard in the night🐙.** 
+
+## Human Resource Management System. 🐕
+
+This is an attempt to explain the very complex being that I am, through the language of binary. 
+
+**Link to the website** : http://wimpywarlord.codes/
+
+## Getting Started 🎧
+
+This project utilized the benefits of multiple technologies such as javascript , HTML5 , css , scss.
+
+Its better if we familiarize ourselves with these technologies. 
+
+### Prerequisites
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.instagram.com/kshitij_dhyani/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
+
+There no necessity for any software for running the project ! The editor and package manager are all at your discretion. 
+
+## Installing☔
+
+Its pretty straightforward :
+
+**Clone the repo :** 
+```
+git clone <repository Url>
+```
+
+## Deployment 💡
+[![THINK](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/wimpywarlord/Mess_It_Up) [![MAKE](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/kshitijdhyani/) [![SELL](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/wimpywarlord)
+
+**Run the application** 
+```
+Use live server extention in vscode.
+```
+
+## Built With 🎯
+**A lot of love and a little JavaScript**
+
+## Contributing 
+
+Make Pull requests which improve the functionality of the application in any sorts. It should conform with the following conditions. 
+* Clear , short , crisp description of the PR. 
+* Should add on to the value of the application.
+
+## Become my distraction (Social Media)🏅
+I am From **New Delhi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
+
+
+|                                                                                     <a href="https://github.com/wimpywarlord"><img src="https://i.ibb.co/JCdtj0v/Whats-App-Image-2020-05-18-at-9-41-11-PM.jpg" width=170px height=165px /></a>                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                        **[Kshitij Dhyani](https://avatars0.githubusercontent.com/u/41532804?s=460&u=b5b9022dc4dc061a63574b6376a9fc23d3dbf695&v=4)**                                                                                                                                        |
+| <a href="https://twitter.com/kshitij_dhyani"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kshitij.dhyani.3"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="www.linkedin.com/in/kshitijdhyani/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
+
+MIT © [Kshitij Dhyani](https://github.com/wimpywarlord)
+
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
+
