@@ -14,6 +14,7 @@ var users=[
         dateOfBirth: new Date('1990-05-26'),
         contactNumber: '0333-4552191',
     }),
+
     new User({
 
         type: 'accounts_manager',
@@ -23,6 +24,7 @@ var users=[
         dateOfBirth: new Date('1990-05-26'),
         contactNumber: '0300-4814710',
     }),
+
     new User({
         type: 'employee',
         email: 'salmanN@gmail.com',
@@ -31,8 +33,8 @@ var users=[
         dateOfBirth: new Date('1990-05-26'),
         contactNumber: '0333-4552191',
     }),
-    new User({
 
+    new User({
         type: 'employee',
         email: 'hassanQ@outlook.com',
         password: bcrypt.hashSync('123456', bcrypt.genSaltSync(5), null),
@@ -40,8 +42,8 @@ var users=[
         dateOfBirth: new Date('1990-05-26'),
         contactNumber: '0300-4814710',
     }),
-    new User({
 
+    new User({
         type: 'admin',
         email: 'admin@admin.com',
         password: bcrypt.hashSync('admin123', bcrypt.genSaltSync(5), null),
